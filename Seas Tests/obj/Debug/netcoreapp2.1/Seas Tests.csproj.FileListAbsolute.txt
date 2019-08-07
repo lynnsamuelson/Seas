@@ -1,0 +1,34 @@
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.deps.json
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.runtimeconfig.json
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.runtimeconfig.dev.json
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.pdb
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.AssemblyInfoInputs.cache
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.AssemblyInfo.cs
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.pdb
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas 2.dll
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\bin\Debug\netcoreapp2.1\Seas 2.pdb
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csprojAssemblyReference.cache
+C:\Users\Lynn Samuelson\source\repos\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csproj.CopyComplete
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.deps.json
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.runtimeconfig.json
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.runtimeconfig.dev.json
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas Tests.pdb
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas 2.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\bin\Debug\netcoreapp2.1\Seas 2.pdb
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csprojAssemblyReference.cache
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.AssemblyInfoInputs.cache
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.AssemblyInfo.cs
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.csproj.CopyComplete
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.dll
+C:\Users\Lynn Samuelson\source\repos\SeasEducation-Samuelson\Seas Tests\obj\Debug\netcoreapp2.1\Seas Tests.pdb

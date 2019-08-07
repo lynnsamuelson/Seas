@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas Tests\\Seas Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\Seas 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\Seas 2.csproj",
+        "projectName": "Seas 2",
+        "projectPath": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\Seas 2.csproj",
+        "packagesPath": "C:\\Users\\Lynn Samuelson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lynn Samuelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[12.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas Tests\\Seas Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas Tests\\Seas Tests.csproj",
+        "projectName": "Seas Tests",
+        "projectPath": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas Tests\\Seas Tests.csproj",
+        "packagesPath": "C:\\Users\\Lynn Samuelson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lynn Samuelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\Seas 2.csproj": {
+                "projectPath": "C:\\Users\\Lynn Samuelson\\source\\repos\\SeasEducation-Samuelson\\Seas 2\\Seas 2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
